@@ -1,7 +1,11 @@
 {
   
     
-        "post0": {
+  
+    
+  
+    
+        "post2": {
             "title": "Title",
             "content": "This is blog test! . &gt; &quot;Awesome summary today&quot; - toc: false - branch: master - badges: true - comments: true - categories: [fastpages, jupyter] - image: images/some_folder/your_image.png - hide: false - search_exclude: true - metadata_key1: metadata_value1 - metadata_key2: metadata_value2 . File &#34;&lt;ipython-input-9-7df707042039&gt;&#34;, line 11 urls,data = set(),{&#39;next&#39;:1} ^ SyntaxError: invalid syntax . Another text block! .",
             "url": "https://jorgebriones.github.io/Deep-Learning-Blog/2022/08/19/testblog.html",
@@ -9,10 +13,6 @@
             "date": " • Aug 19, 2022"
         }
         
-    
-  
-    
-  
     
   
     
